@@ -55,4 +55,4 @@ $response = $kernel->handle(
     
     $kernel->terminate($request, $response);
     
-Echo "Aqui sigo todavia";
+Echo "Aqui seguimos todavia";
